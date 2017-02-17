@@ -3,6 +3,6 @@
 
 [百度tts](https://github.com/DelightRun/PyBaiduYuyin)
 
-[图灵机器人的语音小助手](https://tuling123.com)
+[图灵机器人的语音小助手](http://www.tuling123.com)
 
 
