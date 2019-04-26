@@ -1,4 +1,4 @@
-# roobt
+# robot
 # 命令行模拟语音助手
 > 基于：
 >* pyaudio(录音模块)
